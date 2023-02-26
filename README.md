@@ -41,6 +41,38 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
 </div>
 
+### 🛠 Technologies
+
+<div align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
+</div>
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
 <!-- <a href="https://github.com/rafaa1999/rafaa1999"> -->
