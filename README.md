@@ -1,7 +1,13 @@
-### Welcom ,it's Rafa BenRhouma  👋
+# Welcom ,it's Rafa BenRhouma  👋
 
-##
+## About
+Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at National School of Engineers of Gabes(ENIG). My areas of interest are software development and devops. Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing), and [GitHub résumé](https://resume.github.io/?arasgungore) to learn more about me and my projects.
 
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore-CV)](https://github.com/arasgungore/arasgungore-CV)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore.github.io)](https://github.com/arasgungore/arasgungore.github.io)
+
+## 📇 Social & Contact
 
 <div align="center">
 <!-- <a href="https://github.com/rafaa1999/rafaa1999"> -->
