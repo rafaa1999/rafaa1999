@@ -60,10 +60,10 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
+      <a href="https://github.com/rafaa1999"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=rafaa1999&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/rafaa1999"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=rafaa1999&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
@@ -93,10 +93,7 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </div>
 
 
@@ -112,11 +109,9 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
-##
+
 
 <div> 
-  
-
   <a href = "raferhouma10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaarhouma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/RafaaRhouma" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
