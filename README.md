@@ -9,6 +9,39 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
 
 ## 📇 Social & Contact
 
+<div align="left">
+  <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://leetcode.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+</div>
+
+## ⚙ Skills
+
+<div align="left">
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
+</div>
+
+
 <div align="center">
 <!-- <a href="https://github.com/rafaa1999/rafaa1999"> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
