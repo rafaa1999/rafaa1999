@@ -73,6 +73,20 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
   </tr>
 </table>
 
+[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 📚 Repositories
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=BERT-base-Turkish-QA)](https://github.com/arasgungore/BERT-base-Turkish-QA)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
+
+
 
 <div align="center">
 <!-- <a href="https://github.com/rafaa1999/rafaa1999"> -->
