@@ -12,8 +12,6 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
 <div align="left">
   <a href="mailto:raferhouma10@gmail.com" target="_blank" rel="noreferrer"> <img alt="Rafaa BenRhouma's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://rafaa1999.github.io" target="_blank" rel="noreferrer"> <img alt="Rafaa BenRhouma's Portfolio" src="https://google.com" /> </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/rafaarhouma/" target="_blank" rel="noreferrer"> <img alt="Rafaa BenRhouma's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
   <a href="https://github.com/rafaa1999" target="_blank" rel="noreferrer"> <img alt="Rafaa BenRhouma's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
