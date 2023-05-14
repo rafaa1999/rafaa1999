@@ -62,11 +62,6 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
       <a href="https://github.com/rafaa1999"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=rafaa1999&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=rafaa1999&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Rafaa Benrhouma's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
 </table>
 
 [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=rafaa1999&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
