@@ -78,7 +78,7 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Backend_Node.js)](https://github.com/rafaa1999/Backend_Node.js)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&ReactJs_Architecture)](https://github.com/rafaa1999/ReactJs_Architecture)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=ReactJs_Architecture)](https://github.com/rafaa1999/ReactJs_Architecture)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Backend_Spring_Boot)](https://github.com/rafaa1999/Backend_Spring_Boot)
 
