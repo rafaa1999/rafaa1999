@@ -31,7 +31,15 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40" /> </a>
+  
+</br>
 
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="40" height="40" /> </a>
+ &nbsp; &nbsp;
+   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" alt="cucumber" width="40" height="40" /> </a>
+ &nbsp; &nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="40" height="40" /> </a>
+ &nbsp; &nbsp;
  
 
 ### 🛠 Technologies
