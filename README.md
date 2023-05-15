@@ -3,8 +3,6 @@
 ## About
 Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at National School of Engineers of Gabes([ENIG](https://enig.rnu.tn/)). My areas of interest are Software Engineer and Devops. Check out my [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing) to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore-CV)](https://github.com/arasgungore/arasgungore-CV)
-
 ## 📇 Social & Contact
 
 <div align="left">
