@@ -24,25 +24,28 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at Nation
 <div align="left">
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="ts" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="golang" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40" /> </a>
+
  
 
 ### 🛠 Technologies
 
 <div align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node js" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react js" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
+  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai js" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="spring boot" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="40" height="40" /> </a>
 </div>
 
 ## 📊 GitHub Stats
