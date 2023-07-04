@@ -1,7 +1,7 @@
 # Welcome ,it's Rafa BenRhouma  👋
 
 ## About
-Hi there, my name is Rafaa BenRhouma. I am a Software Engineer student at National School of Engineers of Gabes([ENIG](https://enig.rnu.tn/)). My areas of interest are Software Engineer and Devops. Check out my [CV](https://github.com/rafaa1999/CV_Representation) to learn more about me and my projects.
+Hi there, my name is Rafaa BenRhouma. I am a ICT Engineering Student focusing on Software Engineering at National School of Engineers of Gabes([ENIG](https://enig.rnu.tn/)). My areas of interest are Software Engineer and Devops. Check out my [CV](https://github.com/rafaa1999/CV_Representation) to learn more about me and my projects.
 
 ## 📇 Social & Contact
 
