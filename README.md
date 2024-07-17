@@ -78,10 +78,10 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Job-Management)](https://github.com/rafaa1999/job-management)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Backend_Node.js)](https://github.com/rafaa1999/Backend_Node.js)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Optentelemetry-Management)](https://github.com/rafaa1999/opentelemetry-management)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=ReactJs_Architecture)](https://github.com/rafaa1999/ReactJs_Architecture)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Mastering-Unit-Testing-And-Integration-Test)](https://github.com/rafaa1999/Mastering-Unit-Testing-and-Integration-Testing)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Backend_Spring_Boot)](https://github.com/rafaa1999/Backend_Spring_Boot)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Observability-Service)](https://github.com/rafaa1999/observability-service)
 
 
