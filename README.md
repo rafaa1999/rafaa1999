@@ -70,7 +70,7 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer.
     </td>
   </tr>
 </table>
-
+ <! --  
 [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=rafaa1999&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -84,4 +84,4 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer.
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Observability-Service)](https://github.com/rafaa1999/observability-service)
 
-
+-->
