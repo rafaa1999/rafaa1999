@@ -76,7 +76,7 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer.
 
 ## 📚 Repositories
 
-[![Pinned Repository]([https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Video_Tracker)](https://github.com/rafaa1999/Video_Tracker](https://github.com/rafaa1999/job-management)
+[![Pinned Repository]([https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Video_Tracker)](https://github.com/rafaa1999/Video_Tracker](https://github.com/rafaa1999/job-management))
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaa1999&repo=Backend_Node.js)](https://github.com/rafaa1999/Backend_Node.js)
 &nbsp; &nbsp;
