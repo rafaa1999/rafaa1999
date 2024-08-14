@@ -29,35 +29,6 @@ Hi there, my name is Rafaa BenRhouma. I am a Software Engineer.
   &nbsp; &nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40" /> </a>
   
-
- 
-
-### 🛠 Technologies
-
-<div align="left">
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node js" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react js" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai js" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="spring boot" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="40" height="40" /> </a>
-  
-  </br>
-
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="40" height="40" /> </a>
- &nbsp; &nbsp;
-   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" alt="cucumber" width="40" height="40" /> </a>
- &nbsp; &nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="40" height="40" /> </a>
- &nbsp; &nbsp;
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="kubernetes" width="40" height="40" /> </a>
-</a>
-  
-</div>
-
 ## 📊 GitHub Stats
 
 <table>
