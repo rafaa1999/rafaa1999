@@ -3,7 +3,7 @@
 ## About
 Hi there, my name is Rafaa BenRhouma. I am a Software Engineer.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
