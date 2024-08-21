@@ -1,7 +1,7 @@
 # Welcome, it's me Rafaa BenRhouma 
 
 ## About
-Hi, my name is Rafaa BenRhouma. I am a Software Engineer.
+Hello, my name is Rafaa BenRhouma. I am a Software Engineer.
 
 ## GitHub Stats
 
