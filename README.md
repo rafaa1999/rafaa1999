@@ -1,4 +1,4 @@
-# Welcome, it's me Rafaa BenRhouma 
+# It's me Rafaa BenRhouma 
 
 ## About
 Hello, my name is Rafaa BenRhouma. I am a Software Engineer.
